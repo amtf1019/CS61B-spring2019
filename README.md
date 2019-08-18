@@ -1,4 +1,4 @@
 # CS61B-spring2019
-for my own practices
+for my own practice
 
-The source repo is here: https://github.com/Berkeley-CS61B
+The original repo is here: https://github.com/Berkeley-CS61B
